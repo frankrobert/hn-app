@@ -1,0 +1,11 @@
+.details {
+  font-size: 7pt;
+
+  & a:link {
+    color: #828282;
+  }
+
+  & a:hover {
+    text-decoration: underline;
+  }
+}
