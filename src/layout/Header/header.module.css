@@ -1,0 +1,29 @@
+.root {
+  background-color: #ff6600;
+  padding: 2px;
+  width: 100%;
+  border: 0; }
+
+.logoWrapper {
+  width: 18px;
+  padding-right: 4px; }
+
+.logo {
+  width: 18px;
+  height: 18px;
+  border: 1px white solid; }
+
+.nav {
+  line-height: 12pt;
+  height: 10px; }
+
+.pageTop {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 10pt;
+  color: #222222; }
+
+.pageTop a:visited {
+  color: #000; }
+
+.title {
+  margin-right: 5px; }
