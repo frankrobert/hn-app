@@ -14,7 +14,6 @@ Extended CRA's config using [Craco](https://github.com/sharegate/craco)
 - [Reselect]()
 - [Axios]()
 - [React-Router-Dom](https://reacttraining.com/react-router/web/api/)
-- [font awesome](https://fontawesome.com/)
 
 ### Articles and References
 - Redux Optimizations
