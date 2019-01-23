@@ -1,1 +1,0 @@
-export { loadingReducerFor } from './reducer';
