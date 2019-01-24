@@ -23,7 +23,7 @@ const itemsReducer: Reducer<IItemsReducer, AnyAction> = (
       const results = action.payload.flatMap(
         (payload: AxiosResponse) => payload.data
       );
-      // transform to a better data structure to get O(n) lookups
+      // transform to a better data structure to get O(1) lookups
       const itemsById = results.reduce(
         (result: IItemsById, item: IItem) => {
           result[item.id] = item;
